@@ -88,7 +88,7 @@ class Cdescargas extends CI_Controller {
         $dominio = file_get_contents('system/dominio.dat', true);
         $url = 'http://updateapp.tecmmas.com/Actualizaciones/index.php/Cactualizaciones/updateVersion' . '?dominio=' . $dominio. '&version=' . $version ;
         file_get_contents($url);
-        redirect("Cindex");
+        //redirect("Cindex");
     }
 
     private function error($mensaje) {
