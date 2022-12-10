@@ -1,97 +1,99 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-yCZd
+<?php
+
+defined("BASEPATH") OR exit("No direct script access allowed");
+header("Access-Control-Allow-Origin: *");
+ini_set("memory_limit", "-1");
+set_time_limit(300);
+
+class Cdescargas extends CI_Controller {
+
+    public function __construct() {
+        parent::__construct();
+        $this->load->helper("form");
+        $this->load->helper("url");
+        $this->load->helper("security");
+        $this->load->helper('download');
+    }
+
+    public function index() {
+        if ($this->session->userdata("IdUsuario") == "" || $this->session->userdata("IdUsuario") == "1024") {
+            redirect("Cindex");
+        }
+        $url = 'http://updateapp.tecmmas.com/actualizaciones.json';
+        $archivo = fopen('system/actualizaciones.json', "w+b");
+        fwrite($archivo, file_get_contents($url));
+        fclose($archivo);
+        $json = file_get_contents('system/actualizaciones.json', true);
+        $rta ['actu'] = json_decode($json);
+        $from = "C:/Apache24/htdocs/et/application/EasyTecmmasV1.0.12";
+        $this->load->view('oficina/descargas/Vdescargas', $rta);
+    }
+
+    function getDescripcion() {
+        $idactualizacion = $this->input->post('idactualizacion');
+        $json = file_get_contents('system/actualizaciones.json', true);
+        $rta = json_decode($json);
+        foreach ($rta as $value) {
+            if ($idactualizacion == $value->id) {
+                $descripcion = $value->descripcion;
+            }
+        }
+        echo json_encode($descripcion);
+    }
+
+    public function Getactualizacion() {
+        $idactualizacion = $this->input->post('idactualizacion');
+        $json = file_get_contents('system/actualizaciones.json', true);
+        $rta = json_decode($json);
+        foreach ($rta as $value) {
+            if ($idactualizacion == $value->id) {
+                $url = $value->url;
+                $file = $value->file;
+                $version = $value->version;
+            }
+        }
+        $this->createbatgit($url, $file, $version);
+    }
+
+    private function createbatgit($url, $file, $version) {
+        $data = 'C:\Apache24\htdocs\et\application';
+        $cadena = "cd $data
+                    git init
+                    git clone $url
+                    exit";
+        $archivo = fopen('system/dwngit.bat', "w+b");
+        fwrite($archivo, $cadena);
+        fclose($archivo);
+        $out = shell_exec('start C:/Apache24/htdocs/et/system/dwngit.bat');
+        $to = '"C:/Apache24/htdocs/et/application"';
+        $from = "C:/Apache24/htdocs/et/application/$file";
+        if (file_exists($from)) {
+            $this->getfoldercop($to, $file, $version);
+        } else {
+            $this->error("Lo sentimos el archivo no se pudo descargar, por favor comunicate con el area de soporte para validar." . $out);
+        }
+    }
+
+    public function getfoldercop($to, $file, $version) {
+        $from = '"' . "C:/Apache24/htdocs/et/application/$file" . '"';
+        $cadena = "Xcopy  /e /y $from $to";
+        shell_exec($cadena);
+        $d = "cd C:/Apache24/htdocs/et/application
+                 RD /S /Q $file
+                exit";
+        $archivo = fopen('system/deletFolder.bat', "w+b");
+        fwrite($archivo, $d);
+        fclose($archivo);
+        shell_exec('start C:/Apache24/htdocs/et/system/deletFolder.bat');
+        $dominio = file_get_contents('system/dominio.dat', true);
+        $url = 'http://updateapp.tecmmas.com/Actualizaciones/index.php/Cactualizaciones/updateVersion' . '?dominio=' . $dominio. '&version=' . $version ;
+        file_get_contents($url);
+        redirect("Cindex");
+    }
+
+    private function error($mensaje) {
+        $this->session->set_flashdata('error', $mensaje);
+        redirect("oficina/descargas/Cdescargas");
+    }
+
+}
